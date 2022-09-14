@@ -1,0 +1,1 @@
+Hoje na aula 1 do bloco 3, aprendemos a criar um html, algumas tags e como usa-las para estruturar um site!!!
